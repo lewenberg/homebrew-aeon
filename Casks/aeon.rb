@@ -1,6 +1,6 @@
 cask "aeon" do
-  version "0.1.4"
-  sha256 "ead844c619d51d69deb8c4668a2c816fe08db3e955f0ae1b9ace235e739d5748"
+  version "0.1.5"
+  sha256 "954c0877879379a98f377c641c3876c0e22ac1c40a7401c6a96c42a1e089c539"
 
   url "https://aeon-api-685636195440.us-central1.run.app/download/mac-arm64?version=#{version}"
   name "Aeon"
