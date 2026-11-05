@@ -1,6 +1,6 @@
 cask "aeon" do
-  version "0.1.6"
-  sha256 "33383f744ca8e92ea4b417c7769342c0fea16ce91e6c23d0de93f90f56bf8a00"
+  version "0.1.7"
+  sha256 "abbf4c95ac1b966681cc0bcd9f5d8eeb73f960c485e138cf96826235c14e914b"
 
   url "https://mmokndnllacsauploqlf.supabase.co/functions/v1/api/download/mac-arm64?version=#{version}"
   name "Aeon"
